@@ -1,0 +1,6 @@
+Runner/BaseRunner.class
+Pages/CheckoutPage.class
+Runner/WebRunner.class
+StepDefinitions/CheckoutSteps.class
+Pages/LoginPage.class
+StepDefinitions/LoginSteps.class
