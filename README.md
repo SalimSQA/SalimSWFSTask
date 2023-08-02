@@ -38,15 +38,21 @@ The project structure is organized in the following manner:
         |    |-- pom.xml
         
 **SalimAutomationProject:** Project root directory. 
+
 **src/main/java:** Contains the main Java code for the framework.
 
 **PageObjects:** Contains web elements of web pages.
-**Utils:** Contains utility classes
+
+**Utils:** Contains utility classes.
+
 **src/test/java:** Contains the test-related Java/Selenium code.
 
 **Pages:** Includes page object classes representing the web pages of the application under test.
+
 **StepDefinitions:** Holds Cucumber step definition files mapping feature steps to Java/Selenium code.
+
 **Runners:** Contains test runners for executing Cucumber tests.
+
 **src/test/resources:** Contains the resources required for testing.
 
 **features:** Holds the feature files written in Gherkin format.
@@ -54,11 +60,11 @@ The project structure is organized in the following manner:
 # Dependencies
 The project dependencies are managed using Maven and are listed in the pom.xml file.
 
-Java (JDK) 8 or above
-Selenium WebDriver
-Cucumber
-TestNG
-Allure
+Java (JDK) 8 or above.
+Selenium WebDriver.
+Cucumber.
+TestNG.
+Allure.
 
 # Generating Report
 The framework is integrated with Allure for reporting. After running the tests, you can generate the Allure report by executing the following command on terminal:
