@@ -11,7 +11,7 @@ Ensure you have Maven installed.
 
 # Clone the Repository:
 
-git clone https://github.com/SalimKhanGit/SalimAutomationProject.git
+git clone https://github.com/SalimSQA/SalimSWFSTask.git
 
 # Install Dependencies: 
 
